@@ -1,0 +1,19 @@
+{
+  "name": "ds_algorithms_javascript",
+  "version": "1.0.0",
+  "description": "DataStructures and Algoritms in Javascscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickcarvlh/DS_Algorithms_Javascript.git"
+  },
+  "author": "Ricardo Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickcarvlh/DS_Algorithms_Javascript/issues"
+  },
+  "homepage": "https://github.com/rickcarvlh/DS_Algorithms_Javascript#readme"
+}
